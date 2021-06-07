@@ -10,6 +10,7 @@ int main()
 	
 	enter(&num1, &num2);
 	cout << "сложение двух чисел равно: " << num1 + num2;
+	cout << "вычитание двух чисел равно: " << num1 + num2;
 	
 	return 0;
 }
